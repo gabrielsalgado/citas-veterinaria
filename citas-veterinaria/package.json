@@ -1,13 +1,10 @@
 {
-  "name": "citas-veterinaria",
-  "private": true,
+  "name": "citas-react",
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "serve": "vite preview"
   },
   "dependencies": {
     "react": "^17.0.0",

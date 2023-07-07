@@ -5,7 +5,7 @@ import './App.css'
 */
 
 
-import {header} from "./components/Header"
+import header from "./components/Header"
 function App() {
   //const [count, setCount] = useState(0)
 
@@ -16,4 +16,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

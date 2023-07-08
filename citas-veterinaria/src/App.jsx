@@ -9,10 +9,8 @@ function App() {
   return (
     <div>
       <Header />
-      <Formulario/>
-      <ListadoPacientes/>
-
-
+      <Formulario />
+      <ListadoPacientes />
     </div>
   )
 }

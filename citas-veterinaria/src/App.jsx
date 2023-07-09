@@ -7,10 +7,12 @@ function App() {
 
 
   return (
-    <div>
+    <div className="container mx-auto">
       <Header />
-      <Formulario />
-      <ListadoPacientes />
+      <div>
+        <Formulario />
+        <ListadoPacientes />
+      </div>
     </div>
   )
 }
